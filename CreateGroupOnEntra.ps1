@@ -1,6 +1,5 @@
 Connect-AzAccount -AuthScope MicrosoftGraphEndpointResourceId
 
-
 # Definieren der Gruppeneigenschaften
 $groupName = "GroupName"
 $groupDescription = "Nice Group Description"
